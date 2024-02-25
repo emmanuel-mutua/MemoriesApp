@@ -1,3 +1,11 @@
 <resources>
+    <string name="sample_name">name</string>
+    <string name="day1">1</string>
     <string name="app_name">ApplicationOne</string>
+    <string name="august">August\n</string>
+    <string name="desc1">A very long desc 1. To earn BAT, users must connect a custodial account to Brave Rewards. Unfortunately, there\'s no custodian available in your region, so earning isn\'t available. For now, turning on Brave Rewards will automatically support creators.\n</string>
+    <string name="desc2">A very long desc 2. To earn BAT, users must connect a custodial account to Brave Rewards. Unfortunately, there\'s no custodian available in your region, so earning isn\'t available. For now, turning on Brave Rewards will automatically support creators.\n</string>
+    <string name="desc3">A very long desc 3. To earn BAT, users must connect a custodial account to Brave Rewards. Unfortunately, there\'s no custodian available in your region, so earning isn\'t available. For now, turning on Brave Rewards will automatically support creators.\n</string>
+    <string name="desc4">A very long desc 3. To earn BAT, users must connect a custodial account to Brave Rewards. Unfortunately, there\'s no custodian available in your region, so earning isn\'t available. For now, turning on Brave Rewards will automatically support creators.\n</string>
+    <string name="desc5">A very long desc 4. To earn BAT, users must connect a custodial account to Brave Rewards. Unfortunately, there\'s no custodian available in your region, so earning isn\'t available. For now, turning on Brave Rewards will automatically support creators.\n</string>
 </resources>
